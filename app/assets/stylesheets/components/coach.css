@@ -1,0 +1,47 @@
+.container{
+  justify-content: center;
+}
+
+body{
+  text-align: center;
+}
+
+h1{
+  font-family: atrament-web, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 64px;
+  margin: 20px 0px;
+}
+
+
+.input-field{
+  width: 700px;
+  height: 40px;
+  margin: 20px 0px;
+  border-radius: 7px;
+  border: 1px solid gray;
+  font-family: ocr-a-std, monospace;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.img_preview{
+  width: 700px;
+  height: auto;
+  border-radius: 20px;
+
+}
+
+.btn-ask{
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 7px;
+  width: 700px;
+  height: 40px;
+  margin-bottom: 20px;
+
+
+}
